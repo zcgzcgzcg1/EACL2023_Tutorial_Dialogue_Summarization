@@ -37,7 +37,7 @@ Summarizing written and spoken conversation poses unique research challenges—t
 | Local time (GMT+8??) | Content | Presenter | Slides |
 | :---: | :---: | :---: | :---: |
 | 09:00-10:00 | Introduction to Conversation Summarization | Diyi Yang | [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART1_Introduction.pdf) |
-| 10:00-10:55 | Pretraining and Modeling | Chenguang Zhu [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Knowledge_in_NLG.pdf) |
+| 10:00-10:55 | Pretraining and Models | Chenguang Zhu [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Knowledge_in_NLG.pdf) |
 | 11:05-12:00 | Evaluation and Challenges | Diyi Yang | [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART5_Conclusion.pdf) |
 
 ## Presenters
