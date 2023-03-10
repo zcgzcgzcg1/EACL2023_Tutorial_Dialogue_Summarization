@@ -44,7 +44,7 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 ## &nbsp; <img src="imgs/Diyi.jpg" height="133" align=center> &nbsp; &nbsp; <img src="imgs/Chenguang.jpg" width="108" align=center> &nbsp;  
 
-&nbsp; &nbsp; &nbsp; Diyi Yang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chenguang Zhu
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Diyi Yang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chenguang Zhu
 
 ** [Diyi Yang](https://cs.stanford.edu/~diyiy/)** is an assistant professor in the Computer Science Department at Stanford University. Her research focuses on dialogue summarization, learning with limited and noisy text data, user-centric language generation, and computational social science. Diyi has organized four workshops at NLP conferences: Widening NLP Workshops at NAACL 2018 and ACL 2019, Casual Inference workshop at EMNLP 2021, and NLG Evaluation workshop at EMNLP 2021. She also gave a tutorial at ACL 2022 on Learning with Limited Data.
 
