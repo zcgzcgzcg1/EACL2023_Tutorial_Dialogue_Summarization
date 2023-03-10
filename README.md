@@ -42,7 +42,7 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 ## Presenters
 
-## &nbsp; <img src="imgs/Diyi.jpg" height="115" align=center> &nbsp; &nbsp; <img src="imgs/Chenguang.jpg" width="108" align=center> &nbsp;  
+## &nbsp; <img src="imgs/Diyi.jpg" height="123" align=center> &nbsp; &nbsp; <img src="imgs/Chenguang.jpg" width="108" align=center> &nbsp;  
 
 Diyi Yang &nbsp; &nbsp; &nbsp; Chenguang Zhu &nbsp; &nbsp; &nbsp; 
 
