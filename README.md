@@ -6,11 +6,11 @@ Materials for [EACL2023](https://2023.eacl.org/) tutorial: Summarization of Dial
 
 ## Time and Location
 
-1. Time: ??am - ??pm (GMT+?), May 6???, 2023.
+1. Time: 14:15 - 18:00 (GMT+1), May 5, 2023.
 
-2. Location: ?????
+2. Location: Online
 
-3. Live Stream on Zoom: [Link??]
+3. Live Stream on Zoom: [Link to be announced]
 
 ## Tutorial Abstract 
 Conversations are the natural communication format for people. This fact has motivated the large body of question answering and chatbot research as a seamless way for people to interact with machines. The conversations between people however, captured as video, audio or private or public written conversations, largely remain untapped as a source of compelling starting point for developing language technology. Summarizing such conversations can be enormously beneficial: automatic minutes for meetings or meeting highlights sent to relevant people can optimize communication in various groups while minimizing demands on people’s time; similarly analysis of conversations in online support groups can provide valuable information to doctors about the patient concerns.
@@ -19,7 +19,7 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 ## Tutorial Materials
 
-**1. Slides** [\[Introduction\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART1_Introduction.pdf) [\[PretrainingAndModeling\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART2_Knowledge_in_NLU.pdf))
+**1. Slides** 
 
 **2. Video** Available after the tutorial
 
@@ -35,10 +35,12 @@ Summarizing written and spoken conversation poses unique research challenges—t
 ## Tutorial schedule (Tentative)
 
 | Local time (GMT+1) | Content | Presenter | Slides |
-| :---: | :---: | :---: | :---: |
-| 14:15-15:15 | Introduction to Conversation Summarization | Diyi Yang | [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART1_Introduction.pdf) |
-| 15:30-16:30 | Pretraining and Models | Chenguang Zhu [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART4_Knowledge_in_NLG.pdf) |
-| 16:45-17:45 | Evaluation and Challenges | Diyi Yang | [\[Slides??\]](https://github.com/zcgzcgzcg1/WSDM2023_Knowledge_NLP_Tutorial/blob/main/files/PART5_Conclusion.pdf) |
+| 14:15-15:15 | Introduction to Conversation Summarization | Diyi Yang | [\[Slides\]] |
+| 15:15-15:30 | Break |
+| 15:30-16:30 | Pretraining and Models | Chenguang Zhu [\[Slides\]] |
+| 16:30-16:45 | Break |
+| 16:45-17:45 | Evaluation and Challenges | Diyi Yang | [\[Slides\]] |
+| 17:45-18:00 | Conclusion | Diyi Yang | [\[Slides\]] |
 
 ## Presenters
 
