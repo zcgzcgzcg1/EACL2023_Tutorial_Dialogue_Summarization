@@ -41,8 +41,6 @@ Summarizing written and spoken conversation poses unique research challenges—t
 - Dr. Summarize: Global Summarization of Medical Dialogue by Exploiting Local Structures. A. Joshi et al. Findings of EMNLP 2020. [\[pdf\]](https://aclanthology.org/2020.findings-emnlp.335.pdf)
 - Longformer: The Long-Document Transformer. I. Beltagy et al. arXiv 2020. [\[pdf\]](https://arxiv.org/pdf/2004.05150.pdf)
 
-![image](https://user-images.githubusercontent.com/43046314/226242102-73dd0775-dd29-4ff2-bc21-e4c05e5c9c0b.png)
-
 ## Tutorial schedule (Tentative)
 
 | Local time (GMT+1) | Content | Presenter | Slides |
