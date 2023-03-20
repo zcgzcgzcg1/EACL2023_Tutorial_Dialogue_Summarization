@@ -29,8 +29,19 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 **4. Reading list:**
 
-- A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining, in Findings of EMNLP 2020. [\[pdf\]](https://aclanthology.org/2020.findings-emnlp.19.pdf) 
 
+- DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization. M. Zhong et al. AAAI 2022. [\[pdf\]](https://ojs.aaai.org/index.php/AAAI/article/view/21432/21181)
+- A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining. Findings of EMNLP 2020. [\[pdf\]](https://aclanthology.org/2020.findings-emnlp.19.pdf) 
+- QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization. M. Zhong et al. NAACL 2021. [\[pdf\]](https://arxiv.org/pdf/2104.05938)
+- A Sliding-Window Approach to Automatic Creation of Meeting Minutes. J. J. Koay et al. NAACL: Student Research Workshop, 2021. [\[pdf\]](https://aclanthology.org/2021.naacl-srw.10.pdf)
+- Improving Abstractive Dialogue Summarization with Speaker-Aware Supervised Contrastive Learning. Z. Geng et al. COLING 2022. [\[pdf\]](https://aclanthology.org/2022.coling-1.569.pdf)
+- Coreference-Aware Dialogue Summarization. Z. Liu et al. SIGDIAL 2021. [\[pdf\]](https://arxiv.org/pdf/2106.08556.pdf)
+- Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words. L. Zhao et al. COLING 2020. [\[pdf\]](https://aclanthology.org/2020.coling-main.39.pdf)
+- How Domain Terminology Affects Meeting Summarization Performance. J. J. Koay et al. COLING 2020. [\[pdf\]](https://aclanthology.org/2020.coling-main.499.pdf)
+- Dr. Summarize: Global Summarization of Medical Dialogue by Exploiting Local Structures. A. Joshi et al. Findings of EMNLP 2020. [\[pdf\]](https://aclanthology.org/2020.findings-emnlp.335.pdf)
+- Longformer: The Long-Document Transformer. I. Beltagy et al. arXiv 2020. [\[pdf\]](https://arxiv.org/pdf/2004.05150.pdf)
+
+![image](https://user-images.githubusercontent.com/43046314/226242102-73dd0775-dd29-4ff2-bc21-e4c05e5c9c0b.png)
 
 ## Tutorial schedule (Tentative)
 
