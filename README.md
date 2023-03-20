@@ -21,7 +21,13 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 **1. Slides** 
 
+[Part 1] Introduction to Conversation Summarization	
+
 [Part 2] Pretraining and Models [\[PDF\]](https://github.com/zcgzcgzcg1/EACL2023_Tutorial_Dialogue_Summarization/blob/main/slides/PART2_Pretraining_Models.pdf)
+
+[Part 3] Evaluation and Challenges
+
+[Part 4] Conclusion
 
 **2. Video** 
 
