@@ -21,9 +21,12 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 **1. Slides** 
 
-**2. Video** Available after the tutorial
+[Part 2] Pretraining and Models [\[PDF\]](https://github.com/zcgzcgzcg1/EACL2023_Tutorial_Dialogue_Summarization/blob/main/slides/PART2_Pretraining_Models.pdf)
+**2. Video** 
 
-**3. Survey:** 
+Available after the tutorial
+
+**3. Survey** 
 
 - A Survey on Dialogue Summarization: Recent Advances and New Frontiers, in IJCAI 2021. [\[PDF\]](https://arxiv.org/pdf/2107.03175.pdf)
 
