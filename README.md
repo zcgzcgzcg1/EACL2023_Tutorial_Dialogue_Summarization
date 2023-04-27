@@ -6,7 +6,7 @@ Materials for [EACL2023](https://2023.eacl.org/) tutorial: Summarization of Dial
 
 ## Time and Location
 
-1. Time: 14:15 - 18:00 (GMT+1), May 5, 2023.
+1. Time: 14:15 - 18:00 (CEST), May 5, 2023.
 
 2. Location: Online
 
@@ -53,7 +53,7 @@ Available after the tutorial
 
 ## Tutorial schedule (Tentative)
 
-| Local time (GMT+1) | Content | Presenter | Slides |
+| Local time (CEST) | Content | Presenter | Slides |
 | :---: | :---: | :---: | :---: |
 | 14:15-15:15 | Introduction to Conversation Summarization | Diyi Yang | [\[Slides\]] |
 | 15:15-15:30 | Break | - | - |
