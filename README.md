@@ -65,14 +65,14 @@ Available after the tutorial
 
 ## Tutorial schedule (Tentative)
 
-| Local time (CEST) | Content | Presenter | Slides |
+| Local time (CEST) | Content | Presenter |
 | :---: | :---: | :---: | :---: |
-| 14:15-15:15 | Introduction to Conversation Summarization | Diyi Yang | [\[Slides\]] |
+| 14:15-15:15 | Introduction to Conversation Summarization | Diyi Yang |
 | 15:15-15:30 | Break | - | - |
-| 15:30-16:30 | Pretraining and Models | Chenguang Zhu | [\[Slides\]] |
+| 15:30-16:30 | Pretraining and Models | Chenguang Zhu |
 | 16:30-16:45 | Break | - | - |
-| 16:45-17:45 | Evaluation and Challenges | Diyi Yang | [\[Slides\]] |
-| 17:45-18:00 | Conclusion | Diyi Yang | [\[Slides\]] |
+| 16:45-17:45 | Evaluation and Challenges | Diyi Yang |
+| 17:45-18:00 | Conclusion | Diyi Yang |
 
 ## Presenters
 
