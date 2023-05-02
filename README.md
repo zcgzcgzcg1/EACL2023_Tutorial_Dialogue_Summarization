@@ -12,6 +12,18 @@ Materials for [EACL2023](https://2023.eacl.org/) tutorial: Summarization of Dial
 
 3. Live Stream on Zoom: [Link to be announced]
 
+
+#### If you find this tutorial helpful for your work, please kindly cite our paper.
+```
+@inproceedings{yang2023summarization,
+  title={Summarization of Dialogues and Conversations At Scale},
+  author={Yang, Diyi and Zhu, Chenguang},
+  booktitle={Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Tutorial Abstracts},
+  pages={13--18},
+  year={2023}
+}
+```
+
 ## Tutorial Abstract 
 Conversations are the natural communication format for people. This fact has motivated the large body of question answering and chatbot research as a seamless way for people to interact with machines. The conversations between people however, captured as video, audio or private or public written conversations, largely remain untapped as a source of compelling starting point for developing language technology. Summarizing such conversations can be enormously beneficial: automatic minutes for meetings or meeting highlights sent to relevant people can optimize communication in various groups while minimizing demands on people’s time; similarly analysis of conversations in online support groups can provide valuable information to doctors about the patient concerns.
 Summarizing written and spoken conversation poses unique research challenges—text reformulation, discourse and meaning analysis beyond the sentence, collecting data, and proper evaluation metrics. All these have been revisited by researchers since the emergence of neural approaches as the dominant approach for solving language processing problems. In this tutorial, we will survey the cutting-edge methods for summarization of conversations, covering key sub-areas whose combination is needed for a successful solution.
