@@ -67,12 +67,11 @@ Available after the tutorial
 
 | Local time (CEST) | Content | Presenter |
 | :---: | :---: | :---: |
-| 14:15-15:15 | Introduction to Conversation Summarization | Diyi Yang |
-| 15:15-15:30 | Break | - | - |
-| 15:30-16:30 | Pretraining and Models | Chenguang Zhu |
-| 16:30-16:45 | Break | - | - |
-| 16:45-17:45 | Evaluation and Challenges | Diyi Yang |
-| 17:45-18:00 | Conclusion | Diyi Yang |
+| 14:15-14:45 | Introduction to Conversation Summarization | Diyi Yang |
+| 14:45-15:15 | Conversation Structures and Evaluation | Diyi Yang |
+| 15:15-15:30 | Break | - |
+| 15:30-16:50 | Pretraining and Models | Chenguang Zhu |
+| 16:50-17:00 | Conclusion and Future Directions | Chenguang Zhu |
 
 ## Presenters
 
