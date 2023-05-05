@@ -33,7 +33,7 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 **1. Slides** 
 
-Available after the tutorial
+[\[Tutorial Slides\]](https://github.com/zcgzcgzcg1/EACL2023_Tutorial_Dialogue_Summarization/blob/main/slides/EACL2023_Tutorial_Conversation_Summarization.pdf)
 
 **2. Video** 
 
