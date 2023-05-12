@@ -37,7 +37,7 @@ Summarizing written and spoken conversation poses unique research challenges—t
 
 **2. Video** 
 
-Available after the tutorial
+[\[Tutorial Video\]]([https://github.com/zcgzcgzcg1/EACL2023_Tutorial_Dialogue_Summarization/blob/main/slides/EACL2023_Tutorial_Conversation_Summarization.pdf)](https://underline.io/events/383/sessions/14844/lecture/72161-summarization-of-dialogues-and-conversations-at-scale) (Need EACL registration at Underline)
 
 **3. Survey** 
 
